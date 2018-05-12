@@ -1,0 +1,62 @@
+_repo: Victorian-Short-Stories-of-Troubled-Marriages_15466
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Doyle, Arthur Conan
+    aliases:
+    - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
+    - Conan Doyle, Arthur, Sir
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+  - agent_name: D'Arcy, Ella
+    birthdate: 1851
+    deathdate: 1937
+    gutenberg_agent_id: '6088'
+    url: http://www.gutenberg.org/2009/agents/6088
+  - agent_name: Morrison, Arthur
+    birthdate: 1863
+    deathdate: 1945
+    gutenberg_agent_id: '3903'
+    url: http://www.gutenberg.org/2009/agents/3903
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Morrison
+  - agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+  - agent_name: Gissing, George
+    alias: Gissing, George Robert
+    birthdate: 1857
+    deathdate: 1903
+    gutenberg_agent_id: '641'
+    url: http://www.gutenberg.org/2009/agents/641
+    wikipedia: http://en.wikipedia.org/wiki/George_Gissing
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2005-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+tableOfContents: The Bronckhorst Divorce-Case, by Rudyard Kipling -- Irremediable,
+  by Ella D'Arcy -- "A Poor Stick," by Arthur Morrison -- The Adventure of the Abbey
+  Grange, by Arthur Conan Doyle -- The Prize Lodger, by George Gissing.
+title: Victorian Short Stories of Troubled Marriages
+url: http://www.gutenberg.org/ebooks/15466
